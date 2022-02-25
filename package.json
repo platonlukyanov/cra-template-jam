@@ -1,0 +1,20 @@
+{
+  "name": "cra-template-jam",
+  "version": "0.1.0",
+  "main": "template.json",
+  "description": "A quick start Create React App template with React Router, Redux Toolkit, TypeScript, Styled Components and custom ESlint configurations",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "styled-components",
+    "eslint",
+    "@reduxjs/toolkit",
+    "react-redux",
+    "react-router",
+    "react-router-dom",
+    "typescript"
+  ],
+  "files": ["template", "template.json"]
+}
