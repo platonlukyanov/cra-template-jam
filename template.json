@@ -1,4 +1,5 @@
 {
+  "package": { 
     "dependencies": {
         "@reduxjs/toolkit": "^1.5.1",
         "@testing-library/react": "^9.3.2",
@@ -20,4 +21,5 @@
       "lint": "eslint --ext .js,.jsx,.ts,.tsx ./",
       "fix": "eslint --ext .js,.jsx,.ts,.tsx  --fix ./"
     }
+  }
   }
