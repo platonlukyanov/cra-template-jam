@@ -35,3 +35,5 @@ Inside the project directory run using npm or yarn:
 * `lint` - lints project files according to custom rules
 
 * `fix` - fix lints issues according to style guide set
+
+* `analyzer` - uses cra-bundle-analyzer to Analyzer Bundle (need to install `yarn add -D cra-bundle-analyzer`)

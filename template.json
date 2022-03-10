@@ -19,7 +19,8 @@
     },
     "scripts": {
       "lint": "eslint --ext .js,.jsx,.ts,.tsx ./",
-      "fix": "eslint --ext .js,.jsx,.ts,.tsx  --fix ./"
+      "fix": "eslint --ext .js,.jsx,.ts,.tsx  --fix ./",
+      "analyzer": "cra-bundle-analyzer"
     }
   }
   }
