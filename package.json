@@ -1,6 +1,6 @@
 {
   "name": "cra-template-jam",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "template.json",
   "description": "A quick start Create React App template with React Router, Redux Toolkit, TypeScript, Styled Components and custom ESlint configurations",
   "keywords": [
@@ -20,5 +20,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/platonlukyanov/cra-template-jam.git"
-  }
+  },
+  "author": "Platon Lukyanov",
+  "license": "Apache License 2.0 (Apache-2.0)"
 }
